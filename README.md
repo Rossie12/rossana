@@ -1,2 +1,2 @@
-# rossana
+# ejercicios-practicos
 Created with CodeSandbox
